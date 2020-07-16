@@ -1,0 +1,4 @@
+Components,Completeness,Contamination
+10,0.361,0.635
+30,0.394,0.604
+60,0.425,0.572
